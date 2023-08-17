@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android develop</string>
+    <string name="Ford_vs_Ferrari">Ford против Ferrari</string>
+    <string name="laber_director">Режиссёр</string>
+    <string name="film_director">Джеймс Мэнголд</string>
+    <string name="actors">Aктеры</string>
+    <string name="film_text">В начале 1960-х Генри Форд II принимает решение улучшить имидж компании и сменить курс на производство более модных автомобилей</string>
+
+</resources>
